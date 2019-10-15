@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Top10Aplicacionsweb>
+    <Top10Aplicacionsweb Codi="001">
+        <Nom>Gmail</Nom>
+        <Descripcio>Es la millor aplicacio per gestionar els teus correus</Descripcio>
+        <Tipus>Gestor de correus</Tipus>
+        <Fabricant>Google inc</Fabricant>
+    </Top10Aplicacionsweb>
+    <Top10Aplicacionsweb Codi="0002">
+        <Nom>Calendar</Nom>
+        <Descripcio>La millor manera de organitzar la teva agenda</Descripcio>
+        <Tipus>Gestor de agenda</Tipus>
+        <Fabricant>Google inc</Fabricant>
+    </Top10Aplicacionsweb>
+    <Top10Aplicacionsweb Codi="0003">
+        <Nom>Teambox</Nom>
+        <Descripcio>Software per gestionar projectes i tasques</Descripcio>
+        <Tipus>Gestor de projectes</Tipus>
+        <Fabricant>redbooth</Fabricant>
+    </Top10Aplicacionsweb>
+    <Top10Aplicacionsweb Codi="0004">
+        <Nom>Spotify</Nom>
+        <Descripcio>Reproductor de musica</Descripcio>
+        <Tipus>Reproductor de musica</Tipus>
+        <Fabricant>Spotify.ltd</Fabricant>
+    </Top10Aplicacionsweb>
+    <Top10Aplicacionsweb Codi="0005">
+        <Nom>Trello</Nom>
+        <Descripcio>Gestor de tasques</Descripcio>
+        <Tipus>Gestor de tasques</Tipus>
+        <Fabricant>Altassian</Fabricant>
+    </Top10Aplicacionsweb>
+    <Top10Aplicacionsweb Codi="0006">
+        <Nom>Netflix</Nom>
+        <Descripcio>Es el videoclub del futur</Descripcio>
+        <Tipus>Reproductor de series o pelicules</Tipus>
+        <Fabricant>Netflix.inc</Fabricant>
+    </Top10Aplicacionsweb>
+    <Top10Aplicacionsweb Codi="0007">
+        <Nom>Youtube</Nom>
+        <Descripcio>Reproductor de videos</Descripcio>
+        <Tipus>Reproductor de videos</Tipus>
+        <Fabricant>Steve Chen, Jawed Karim i Chad Hurley</Fabricant>
+    </Top10Aplicacionsweb>
+    <Top10Aplicacionsweb Codi="0008">
+        <Nom>Twitter</Nom>
+        <Descripcio>Sms de internet</Descripcio>
+        <Tipus>Comunicacio</Tipus>
+        <Fabricant>Jack Dorsey, Noah Glass, Biz Stone, Evan Williams</Fabricant>
+    </Top10Aplicacionsweb>
+    <Top10Aplicacionsweb Codi="0009">
+        <Nom>Amazon</Nom>
+        <Descripcio>Tenda online</Descripcio>
+        <Tipus>Tenda online</Tipus>
+        <Fabricant>Jeffrey Bezos</Fabricant>
+    </Top10Aplicacionsweb>
+    <Top10Aplicacionsweb Codi="0010">
+        <Nom>Evernote</Nom>
+        <Descripcio>Es un bloc de notes en linea</Descripcio>
+        <Tipus>Bloc de notes</Tipus>
+        <Fabricant>Stepan Pachikov</Fabricant>
+    </Top10Aplicacionsweb>
+</Top10Aplicacionsweb>
+
